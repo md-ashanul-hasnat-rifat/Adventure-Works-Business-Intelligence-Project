@@ -1,10 +1,10 @@
-# 📊 Adventure Works Sales Analytics Dashboard 
+# Adventure Works Sales and Customer(RFM) Analytics Dashboard 
 
 This project presents an **interactive Power BI dashboard** designed to analyze and visualize customer sales data for effective business decision-making. The dashboard provides key insights into customer demographics, purchasing behavior, and revenue trends.  
 
 ---
 
-## 🔑 Key Features
+##  Key Features
 
 ### 1. **Executive KPIs**
 - **18,148** Total Customers  
@@ -35,15 +35,23 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Power BI** for dashboard design and interactivity  
 - **DAX** (Data Analysis Expressions) for custom calculations  
 - **RFM Segmentation** for customer behavior classification  
 - **Adventure Works Dataset** (sample business data)  
 
 ---
-
-## 📈 Insights & Business Value
+## Visualization
+![Adventure Works Sales Analysis](Adventure%20works%20Sales%20Analysis%20%281%29-images-0.jpg)
+![Adventure Works Sales Analysis](Adventure%20works%20Sales%20Analysis%20%281%29-images-1.jpg)
+![Adventure Works Sales Analysis](Adventure%20works%20Sales%20Analysis%20%281%29-images-2.jpg)
+![Adventure Works Sales Analysis](Adventure%20works%20Sales%20Analysis%20%281%29-images-3.jpg)
+![Adventure Works Sales Analysis](Adventure%20works%20Sales%20Analysis%20%281%29-images-4.jpg)
+![Adventure Works Sales Analysis](Adventure%20works%20Sales%20Analysis%20%281%29-images-5.jpg)
+![Adventure Works Sales Analysis](Adventure%20works%20Sales%20Analysis%20%281%29-images-6.jpg)
+![Adventure Works Sales Analysis](Adventure%20works%20Sales%20Analysis%20%281%29-images-7.jpg)
+##  Insights & Business Value
 - Identify **loyal and high-value customers** to retain.  
 - Detect **customers at risk** and take action before churn.  
 - Analyze **demographic trends** to design targeted marketing strategies.  
@@ -51,7 +59,7 @@ This project presents an **interactive Power BI dashboard** designed to analyze 
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Clone this repository.  
 2. Open the `.pbix` file in **Power BI Desktop**.  
 3. Explore dashboards using slicers (Year, Category, Country, Region, Date range).  
